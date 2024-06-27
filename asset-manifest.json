@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Virtual-World/static/css/main.6c7a8569.css",
+    "main.js": "/Virtual-World/static/js/main.88bb73b6.js",
+    "static/js/453.a9f64e2d.chunk.js": "/Virtual-World/static/js/453.a9f64e2d.chunk.js",
+    "static/media/hfw.jpg": "/Virtual-World/static/media/hfw.d84d9471b976c7d8a0a0.jpg",
+    "static/media/aw2.jpg": "/Virtual-World/static/media/aw2.576618682adcfb2b3cd8.jpg",
+    "static/media/gowr.jpg": "/Virtual-World/static/media/gowr.9b38e8980f38c552ed3b.jpg",
+    "static/media/sp.jpg": "/Virtual-World/static/media/sp.83e1d7293a8fa2a52997.jpg",
+    "static/media/rdr2.jpg": "/Virtual-World/static/media/rdr2.f73351cb56a816b79efc.jpg",
+    "static/media/tlou2.jpg": "/Virtual-World/static/media/tlou2.dbef6a4bebe93401c8c9.jpg",
+    "static/media/u4.jpg": "/Virtual-World/static/media/u4.a44b650f76eb082b1b31.jpg",
+    "static/media/aptr.jpg": "/Virtual-World/static/media/aptr.b4da93ff92a4ced9269b.jpg",
+    "static/media/home.jpg": "/Virtual-World/static/media/home.a082383fa9abe8de58b9.jpg",
+    "static/media/God_of_War_4_cover.jpg": "/Virtual-World/static/media/God_of_War_4_cover.f00a6bb0e16eaf78f066.jpg",
+    "static/media/index.cjs": "/Virtual-World/static/media/index.1282334337c6cac7deca.cjs",
+    "index.html": "/Virtual-World/index.html",
+    "main.6c7a8569.css.map": "/Virtual-World/static/css/main.6c7a8569.css.map",
+    "main.88bb73b6.js.map": "/Virtual-World/static/js/main.88bb73b6.js.map",
+    "453.a9f64e2d.chunk.js.map": "/Virtual-World/static/js/453.a9f64e2d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c7a8569.css",
+    "static/js/main.88bb73b6.js"
+  ]
+}
